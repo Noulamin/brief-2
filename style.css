@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Lato:ital,wght@1,400;1,900&family=Work+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Lato:ital,wght@1,400;1,900&family=Work+Sans:wght@500&display=swap');
+
+.div1{
+    background-color: black;
+    width: 230px;
+    height: 77px;
+    position: absolute;
+    left: 50px;
+    
+    
+}
+
+.logo{
+    position: absolute;
+    font-family: 'Fira Sans', sans-serif;
+    color: white;
+    font-size: 60px;
+    top: -57px;
+    left: 56px;
+}
+
+#style{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+}
+
+#style2{
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 100px;
+}
+
+.p1{
+    left: 350px;
+ }
+.p2{
+    left: 500px;
+}
+.p3{
+    left: 650px;
+}
+.p4{
+    left: 800px;
+}
+
+
+.l1{
+    left: 60px;
+}
+.s1{
+    font-size: 21px;
+    position: absolute;
+    left: 129px;
+}
+.l2{
+    left: 170px;
+}
+.s2{
+    font-size: 21px;
+    position: absolute;
+    left: 277px;
+}
+.l3{
+     left: 315px;
+}
+
+
+.title1{
+    position: absolute;
+    top: 150px;
+    left: 60px;
+    font-size: 23px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.big_text{
+    position: absolute;
+    top: 200px;
+    left: 60px;
+    font-size: 18px;
+    width: 600px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.tab1{
+    position: absolute;
+    top: 340px;
+    left: 60px;
+    width: 230px;
+    height: 340px;
+    border: solid 2.5px;
+    border-color: black;
+}
+
+.tab2{
+    position: absolute;
+    top: 340px;
+    left: 309px;
+    width: 230px;
+    height: 340px;
+    border: solid 2.5px;
+    border-color: black;
+}
+
+.tab3{
+    position: absolute;
+    top: 340px;
+    left: 558px;
+    width: 230px;
+    height: 340px;
+    border: solid 2.5px;
+    border-color: black;
+}
+
+.tab4{
+    position: absolute;
+    top: 340px;
+    left: 807px;
+    width: 230px;
+    height: 340px;
+    border: solid 2.5px;
+    border-color: black;
+}
+
+.img{
+    width: 210px;
+    height: 210px;
+    position: absolute;
+    left: 9.5px;
+    top: 9.5px;
+}
+
+#o{
+    position: absolute;
+    left: 10px;
+    top: 210px;
+    font-size: 23px;
+    font-family: fantasy;
+}
+
+#a{
+    position: absolute;
+    left: 10px;
+    top: 250px;
+    font-size: 18px;
+    font-family: fantasy;
+    color: darkgray;
+}
+
+#i{
+    position: absolute;
+    left: 10px;
+    top: 271px;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#y{
+    position: absolute;
+    left: 10px;
+    top: 290px;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif,bold;
+    color: green;
+}
